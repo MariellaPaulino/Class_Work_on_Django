@@ -8,20 +8,6 @@
  * Designed and built with all the love in the world by @mdo and @fat.
  */
 
-#parent {
-    width: 900px;
-}
-
-.image {
-    float: left;
-    width: 300px;
-}
-
-
-
-
-
-
 .clearfix {
   *zoom: 1;
 }
